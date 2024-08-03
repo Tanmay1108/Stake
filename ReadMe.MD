@@ -31,8 +31,8 @@ Here is a basic TODO list to guide our initial implementation:
 
 
 Stake Proposed HLD - 
-![Alt text](.StakeHLD.png)
+![Alt text](StakeHLD.png)
 
 
 Stake Proposed LLD - 
-![Alt text](.StakeLLD.png)
+![Alt text](StakeLLD.png)
