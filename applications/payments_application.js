@@ -1,0 +1,1 @@
+// This file will contain all the entry point application functionality of payments.
