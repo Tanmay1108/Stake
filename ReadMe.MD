@@ -30,9 +30,9 @@ Here is a basic TODO list to guide our initial implementation:
   - Start implementing the frontend for the user page and game plugin.
 
 
-Stake Proposed HLD - 
+## Stake Proposed HLD - 
 ![Alt text](StakeHLD.png)
 
 
-Stake Proposed LLD - 
+## Stake Proposed LLD - 
 ![Alt text](StakeLLD.png)
